@@ -37,7 +37,7 @@ function Card({blabData}){
 
                 <div className='w-full flex justify-end gap-1'>
                     <CircleUserRound className='rounded-full p-1 h-[30px] mt-auto w-auto text-gray-700'/>
-                    <p className="mt-2 text-gray-700 mr-auto">{blabData.userName}</p>
+                    <p className="mt-2 text-gray-700 mr-auto truncate max-w-[100px]">{blabData.userName}</p>
                     <small className="mt-2 text-gray-500 text-italic">{blabData.timestamp}</small>
                     <Heart onClick={() => setIsLiked(!isLiked)} fill={isLiked ? "currentColor" : "none"} onMouseEnter={(e) => handleMouseEnter('like', e)} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave} className='h-[35px] w-auto text-red-600 p-2 cursor-pointer rounded-2xl hover:bg-[#DDD6FE] transition-all duration-200 ease'/>
                     <MessageSquareText onMouseEnter={(e) => handleMouseEnter('comment', e)} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave} className='h-[35px] w-auto text-gray-700 p-2 cursor-pointer rounded-2xl hover:bg-[#DDD6FE] hover:text-[#4B0082] transition-all duration-200 ease'/>

@@ -12,7 +12,7 @@ function App() {
       content: "O lugar perfeito para compartilhar seus pensamentos em blabs rápidos.",
       userId: "user123",
       userName: "João Silva",
-      timestamp: "2 horas atrás"
+      timestamp: "2h"
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ function App() {
       content: "Estou aprendendo React e adorando! A sintaxe do JSX é bem intuitiva.",
       userId: "user456",
       userName: "Maria Santos",
-      timestamp: "4 horas atrás"
+      timestamp: "4h"
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ function App() {
       content: "Para quem está começando com Firebase, recomendo começar pela autenticação. É bem simples!",
       userId: "user789",
       userName: "Carlos Oliveira",
-      timestamp: "6 horas atrás"
+      timestamp: "6h"
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ function App() {
       content: "Depois que comecei a usar Tailwind, minha produtividade aumentou muito. Classes utilitárias são o futuro!",
       userId: "user101",
       userName: "Ana Costa",
-      timestamp: "8 horas atrás"
+      timestamp: "8h"
     },
     {
       id: 5,
