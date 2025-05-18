@@ -1,12 +1,17 @@
-# React + Vite
+# Blabry Network
+---
+#### Sobre a rede
+Esta rede está na fase inicial do seu desenvolvimento e consiste numa rede social baseada apenas em texto, construída utilizando react com tailwind css. A a tecnologia de banco de dados que será implementada é firebase, e as dinâmicas das páginas ainda não estão prontas. As páginas são estáticas. Contudo, é possível ter uma breve noção da proposta e de como ficará a interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Quer trabalhar nisso comigo?
+Aqui está uma forma de entrar em contato: [Click here to send a message](mailto:abraaofilipi12@gmail.com)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### About the network
+This network is on it's starting development phase and consists in a text based network platform, built in react with tailwind css. The Database technology that will be implemented is firebase, and the pages dynamics are not ready yet. The pages are static. Neverthless, it's possivle to have a brief idea of the project proposal, and what the interface will be like.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#### Want to work on it with me?
+Here is how you can get in touch: [Click here to send a message](mailto:abraaofilipi12@gmail.com)
