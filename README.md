@@ -5,7 +5,7 @@ Esta rede está na fase inicial do seu desenvolvimento e consiste numa rede soci
 
 
 #### Quer trabalhar no projeto comigo?
-📧 Aqui está o meu email: <a href="mailto:abraaofilipi12@gmail.com?subject=Blabry%20Network&body=Vamos%20trabalhar%20juntos">Enviar mensagem</a>
+📧 Aqui está o meu email: <a href="mailto:abraaofilipi12@gmail.com?subject=Blabry%20Network&body=Vamos%20trabalhar%20juntos%21">Enviar mensagem</a>
 
 <strong>Prévia:</strong> [Blabry](https://blabry-network.vercel.app/)
 
@@ -16,6 +16,6 @@ This network is on it's starting development phase and consists in a text based 
 
 
 #### Want to work on this project with me?
-📧 Here is my email address: <a href="mailto:abraaofilipi12@gmail.com?subject=Blabry%20Network&body=Let%27s%20work%20together">Send message</a>
+📧 Here is my email address: <a href="mailto:abraaofilipi12@gmail.com?subject=Blabry%20Network&body=Let%27s%20work%20together%21">Send message</a>
 
 <strong>Preview:</strong> [Blabry](https://blabry-network.vercel.app/)
