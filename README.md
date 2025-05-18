@@ -4,7 +4,7 @@
 Esta rede está na fase inicial do seu desenvolvimento e consiste numa rede social baseada apenas em texto, construída utilizando react com tailwind css. A a tecnologia de banco de dados que será implementada é firebase, e as dinâmicas das páginas ainda não estão prontas. As páginas são estáticas. Contudo, é possível ter uma breve noção da proposta e de como ficará a interface.
 
 #### Quer trabalhar nisso comigo?
-Aqui está uma forma de entrar em contato: [Click here to send a message](mailto:abraaofilipi12@gmail.com)
+Aqui está uma forma de entrar em contato: [Clique aqui para enviar uma mensagem](mailto:abraaofilipi12@gmail.com)
 
 ---
 
