@@ -1,5 +1,5 @@
 # Blabry Network
----
+
 #### Sobre a rede
 Esta rede está na fase inicial do seu desenvolvimento e consiste numa rede social baseada apenas em texto, construída utilizando react com tailwind css. A a tecnologia de banco de dados que será implementada é firebase, e as dinâmicas das páginas ainda não estão prontas. As páginas são estáticas. Contudo, é possível ter uma breve noção da proposta e de como ficará a interface.
 
