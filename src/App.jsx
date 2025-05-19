@@ -44,7 +44,7 @@ function App() {
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non tempus est. Nullam leo ipsum, dignissim non quam et, posuere fringilla felis. Vivamus laoreet, neque eu interdum auctor, arcu turpis efficitur tortor, nec scelerisque augue massa vitae ante. Mauris tincidunt dictum pulvinar. Vivamus consectetur tortor massa, non ultrices libero ornare in.",
       userId: "user101",
       userName: "Ana Costa",
-      timestamp: "8 horas atrás"
+      timestamp: "8h"
     }
   ];
 
