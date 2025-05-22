@@ -30,7 +30,7 @@ function Card({blabData}){
 
     return (
         <>
-            <div className="bg-white p-5 rounded-xl shadow-sm mb-4 col-start-2">
+            <div className="bg-white p-5 rounded-xl shadow-sm mb-4 md:col-[2] col-[1]">
 
                 <h2 className="text-2xl text-gray-700 font-inter font-bold">{blabData.title}</h2>
                 <p className="mt-2 text-gray-700">{blabData.content}</p>
