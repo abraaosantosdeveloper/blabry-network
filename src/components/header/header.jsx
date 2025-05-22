@@ -21,7 +21,7 @@ function Header(){
 
         <div className="flex justify-end">
           <button 
-            className="text-white hover:bg-[#8B5CF6] p-2 rounded-full transition-colors cursor-pointer"
+            className="text-white hover:bg-[#8B5CF6] p-2 rounded-2xl transition-colors cursor-pointer"
             onClick={() => setMenuOpen(!menuOpen)}
           >
             {menuOpen ? <X size={24} /> : <Menu size={24} />}
@@ -34,24 +34,24 @@ function Header(){
       {menuOpen && (
         <div className="bg-white shadow-lg absolute right-4 mt-2 w-64 rounded-lg overflow-hidden border border-[#DDD6FE] z-20">
           <nav className="py-2">
-            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082]">
+            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082] transition-all duration-150">
               <Home size={20} className="mr-3" />
               <span>Início</span>
             </a>
-            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082]">
+            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082] transition-all duration-150">
               <Bell size={20} className="mr-3" />
               <span>Notificações</span>
             </a>
-            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082]">
+            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082] transition-all duration-150">
               <MessageSquare size={20} className="mr-3" />
               <span>Mensagens</span>
             </a>
-            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082]">
+            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#4B0082] transition-all duration-150">
               <User size={20} className="mr-3" />
               <span>Perfil</span>
             </a>
             <hr className="my-1 border-[#DDD6FE]" />
-            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#7C3AED] font-medium">
+            <a href="#" className="flex items-center px-4 py-3 hover:bg-[#EDE9FE] text-[#7C3AED] font-medium transition-all duration-150">
               <Edit size={20} className="mr-3" />
               <span>Novo Blab</span>
             </a>
