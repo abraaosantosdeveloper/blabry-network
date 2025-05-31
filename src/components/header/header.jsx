@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Menu, X, Home, Bell, MessageSquare, User, Edit } from 'lucide-react';
-import { Link } from 'react-router-dom'; // Adicione esta linha
+import { Link } from 'react-router-dom';
 import LogoTextLight from '../../assets/icons/LogoTextLight.svg';
 
 function Header(){

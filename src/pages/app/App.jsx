@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Header from '../../components/header/header.jsx';
 import Card from '../../components/card/card.jsx';
-import Profile from '../profile/profile.jsx'; // Caminho correto baseado na sua estrutura
+import Profile from '../profile/profile.jsx'; 
 
 function App() {
 
